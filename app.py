@@ -6,7 +6,7 @@ import google.generativeai as genai
 import os
 
 # ✅ Load environment variables (Use Render Environment Variables in production)
-GOOGLE_API_KEY = "AIzaSyApREw6M-Yg9kNfVEd8giI4dgWDsa6RaWg" # Replace with your key if testing locally
+GOOGLE_API_KEY = "YOur API" # Replace with your key if testing locally
 VECTOR_DB_PATH = "faiss_law_index"  # Path to your saved FAISS index
 
 # ✅ Initialize FastAPI
